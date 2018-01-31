@@ -1,0 +1,9 @@
+Building Genericoin
+
+See doc/readme-qt.rst for instructions on building Genericoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Genericoin.
+
+See doc/build-*.txt for instructions on building genericoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Genericoin.
