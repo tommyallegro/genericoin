@@ -2,6 +2,7 @@
 Genericoin integration/staging tree
 ================================
 
+http://www.genericoin.org/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -9,6 +10,12 @@ Copyright (c) 2018 Genericoin Developers
 
 What is Genericoin?
 ----------------
+Genericoin is an experimental new digital currency that enables instant payments to anyone, 
+anywhere in the world. Genericoin uses peer-to-peer technology to operate with no central authority: 
+managing transactions and issuing money are carried out collectively by the network.
+Genericoin Core is the name of open source software which enables the use of this currency.
+
+For more information, as well as an immediately useable, binary version of the Genericoin Core software, see http://www.genericoin.org/
 
 Genericoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 3.0 minute block targets
